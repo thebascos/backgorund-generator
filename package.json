@@ -1,0 +1,22 @@
+{
+  "name": "backgorund-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "udemyBGenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebascos/backgorund-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thebascos/backgorund-generator/issues"
+  },
+  "homepage": "https://github.com/thebascos/backgorund-generator#readme",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  }
+}
